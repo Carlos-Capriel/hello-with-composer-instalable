@@ -1,0 +1,16 @@
+{
+    "name": "lic/hello-composer",
+    "description": "Hola mundo en composer",
+    "authors": [
+        {
+            "name": "Carlos Capriel",
+            "email": "ccapriel@auronix.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "lic\\hello\\" : "src/"
+        }
+    }
+}
