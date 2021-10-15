@@ -1,5 +1,5 @@
 {
-    "name": "lic/hello-composer",
+    "name": "lic/hello-with-composer-instalable",
     "description": "Hola mundo en composer",
     "authors": [
         {
